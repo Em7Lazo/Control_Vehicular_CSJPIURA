@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345290400733",
+    "firebase_url": "https://control-vehicular-csjpiu.firebaseio.com",
+    "project_id": "control-vehicular-csjpiu",
+    "storage_bucket": "control-vehicular-csjpiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345290400733:android:89f039475c68ffbe",
+        "android_client_info": {
+          "package_name": "com.lazo.controlvehicularcsjpiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345290400733-a1leaer4n7b50p935jiulpmvndpaqlq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazo.controlvehicularcsjpiu",
+            "certificate_hash": "3891c8f156216a30b1372606f7e75ff12731c5c1"
+          }
+        },
+        {
+          "client_id": "345290400733-inh195sqipsa41s7vhdpofl5bihaasjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMyjPtlupjykwqM23DpvEbFcxI8hCHZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345290400733-inh195sqipsa41s7vhdpofl5bihaasjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

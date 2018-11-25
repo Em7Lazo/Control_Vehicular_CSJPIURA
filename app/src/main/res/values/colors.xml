@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#993333</color>
+    <color name="colorPrimaryDark">#993333</color>
+    <color name="backgroundcolor">#FCFCFC</color>
+    <color name="lightgray">#EDEDED</color>
+    <color name="deeppurple">#7C4DFF</color>
+    <color name="yello">#FFB300</color>
+    <color name="green">#00BFA5</color>
+    <color name="greenmoney">#669900</color>
+    <color name="orange">#ff9933</color>
+    <color name="ligthblue">#0099cc</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLogin">#333399</color>
+</resources>

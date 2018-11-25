@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opt_ver_perfil"
+        android:title="Ver Perfil" />
+    <item
+        android:id="@+id/opt_cerrar_sesion"
+        android:title="Cerrar Sesión" />
+    <item
+        android:id="@+id/opt_reg_parametros"
+        android:title="Reg Parametros" />
+    <item
+        android:id="@+id/opt_reg_usuarios"
+        android:title="Reg Usuarios" />
+    <item
+        android:id="@+id/opt_reg_vehiculos"
+        android:title="Reg Vehiculos" />
+</menu>
